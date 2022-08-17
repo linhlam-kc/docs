@@ -40,6 +40,7 @@ The Grafana managed Prometheus deployment is illustrated in the following diagra
 #### Step 1: Clone this repository to your dev environment.
 
 `git clone https://github.com/kubecost/openshift-helm-chart.git`
+
 `cd openshift-helm-chart`
 
 #### Step 2: Update configuration.
